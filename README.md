@@ -19,3 +19,18 @@ To train the model and evaluate its performance:
 ```python
 python train_and_evaluate.py
 
+### Key Changes:
+1. **Backticks for code blocks:** I’ve made sure the code sections like installation instructions and commands are inside proper code blocks with backticks.
+2. **Markdown for lists and headings:** Markdown headings (using `##`) and bulleted lists (using `-`) are formatted correctly.
+
+### 2. **Preview and Commit Changes:**
+Once you’ve added the updated content:
+
+- Preview the changes in the GitHub editor to make sure everything is properly formatted.
+- If it looks good, commit the changes to your repository.
+
+### 3. **Result:**
+Once you commit, the rendered README on GitHub should properly display the text and code sections, and the content will look organized and formatted.
+
+Let me know if this solves the issue!
+
