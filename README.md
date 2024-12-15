@@ -1,5 +1,5 @@
 
-Intrusion Detection System (IDS) Project
+#Intrusion Detection System (IDS) Project
 This project implements an Intrusion Detection System (IDS) aimed at identifying malicious activity within network traffic. The system utilizes machine learning techniques to classify network traffic and detect potential intrusions or attacks. The project includes various preprocessing steps, feature selection methods, and machine learning models to ensure accurate and efficient detection.
 
 Features
