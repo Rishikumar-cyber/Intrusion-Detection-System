@@ -13,7 +13,7 @@ This project implements an Intrusion Detection System (IDS) aimed at identifying
 To install and run the project locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Rishikumar-cyber/IDS-project.git
+https://github.com/Rishikumar-cyber/Intrusion-Detection-System.git
 cd IDS-project
 pip install -r requirements.txt
 ```
