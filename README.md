@@ -11,14 +11,20 @@ This project implements an Intrusion Detection System (IDS) aimed at identifying
 
 ## Installation
 To install and run the project locally, clone the repository and install the required dependencies:
-git clone https://github.com/yourusername/IDS-project.git cd IDS-project pip install -r requirements.txt
+
+```bash
+git clone https://github.com/yourusername/IDS-project.git
+cd IDS-project
+pip install -r requirements.txt
+```
+## Usage
 
 ## Usage
 To train the model and evaluate its performance:
 
-``python
+```bash
 python train_and_evaluate.py
-
+```
 ## Data
 The dataset used in this project is derived from network traffic data, containing multiple attack categories and normal traffic samples. The dataset is preprocessed to handle categorical features, and feature selection techniques are applied to enhance the model's detection capabilities.
 
